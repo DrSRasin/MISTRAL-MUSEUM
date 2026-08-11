@@ -38,6 +38,7 @@ This exhibit preserves the **pearls** for culture and calibration — and labels
 | 10 | Unsupported formats (incl. **CorelDRAW**) | FOS |
 | 11 | Login wall *is* the FAQ | HLP |
 | 12 | Same page forever — your computer’s caching | HLP / FOS |
+| 13 | Upload one file at a time — Yes, you can | FOS |
 
 ---
 
@@ -160,6 +161,20 @@ URL pattern: `https://submit.medrxiv.org/submission/faq?faqarea=submission`
 **Comedy rank:** ★★★★☆ — pairs with “wrong system date confuses cookies.”
 
 **Operator note (2026-08-11):** These FAQ strata will serve for a long time. Accession permanent.
+
+
+
+
+### Case 13 — One file at a time (radical permission)
+
+> Can I upload one file at a time?  
+> Yes, you can.
+
+**2026 translation:** Still true. Still the shortest honest answer in the entire help corpus.
+
+**Comedy rank:** ★★☆☆☆ — not funny because absurd; funny because after Cookie Cutter, LaserWriter 8.4, and “your computer is caching,” the system finally answers a normal question with **three words of yes**.
+
+**Curator note:** Proof that HighWire *can* write plain English. It simply chooses not to, most of the time.
 
 
 ## Taxonomy note — why this sits in *Mistral* Museum

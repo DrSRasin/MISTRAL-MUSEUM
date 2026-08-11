@@ -321,3 +321,12 @@ Proceed accordingly.
 **Curator note:** HighWire FAQ fossils are sister specimens (institutional recursive administration frozen in help HTML). Comedy only — **not** live medRxiv policy. Policy: [www.medrxiv.org/about/FAQ](https://www.medrxiv.org/about/FAQ).
 
 **Repo:** [github.com/DrSRasin/MISTRAL-MUSEUM](https://github.com/DrSRasin/MISTRAL-MUSEUM)
+
+
+### Wing C — TEFL Wall of Fame (Maria Rasin)
+
+| Path | Accession | Title |
+|------|-----------|--------|
+| [exhibits/tefl_wall_of_fame/](exhibits/tefl_wall_of_fame/) | C-001 / C-002 | Parody teudat zehut wall plaque · Aunt Sophie 16GB RAM Present Perfect |
+
+**Author of wing artefacts:** Maria Rasin. Sister institution: Museum of Broken Pedagogy (Great TEFL Heist). Images are satire, not real ID documents.

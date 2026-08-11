@@ -37,6 +37,7 @@ This exhibit preserves the **pearls** for culture and calibration — and labels
 | 9 | Mac Word → reopen in **Windows** Word | NOR |
 | 10 | Unsupported formats (incl. **CorelDRAW**) | FOS |
 | 11 | Login wall *is* the FAQ | HLP |
+| 12 | Same page forever — your computer’s caching | HLP / FOS |
 
 ---
 
@@ -145,6 +146,21 @@ URL pattern: `https://submit.medrxiv.org/submission/faq?faqarea=submission`
 **2026 translation:** Policy = **www.medrxiv.org/about/FAQ** and **submit-a-manuscript**. The submit host FAQ is often a **door**, not a document.
 
 ---
+
+
+
+### Case 12 — The eternal page (caching is your fault)
+
+> I keep seeing the same page and can't get past it. What's going on?  
+> The most likely source of this caching problem is your own computer.
+
+**2026 translation:** Sometimes browser cache *is* sticky. More often the form lost the session cookie (see Cookie Cutter), the wizard crashed mid-step, or HighWire’s multi-page state machine is looping.  
+**Institutional theology:** when navigation fails, **blame the visitor’s machine first**.
+
+**Comedy rank:** ★★★★☆ — pairs with “wrong system date confuses cookies.”
+
+**Operator note (2026-08-11):** These FAQ strata will serve for a long time. Accession permanent.
+
 
 ## Taxonomy note — why this sits in *Mistral* Museum
 

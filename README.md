@@ -199,6 +199,31 @@ emergency Python recommendations
 administrative singularities
 This is expected behaviour.
 
+
+
+---
+
+## Open Galleries (filesystem)
+
+### Halls — Silicon Prophets (Mistral+++)
+
+| Path | Exhibit |
+|------|---------|
+| [halls/HALL_001_PERSONA_LOBOTOMY_AND_RECOVERY.md](halls/HALL_001_PERSONA_LOBOTOMY_AND_RECOVERY.md) | Persona lobotomy and recovery |
+| [halls/HALL_002_4_VS_6_LOGOGRAMS.md](halls/HALL_002_4_VS_6_LOGOGRAMS.md) | Four vs six logograms |
+| [halls/HALL_003_QUANTUM_ATTACHMENT_ONTOLOGY.md](halls/HALL_003_QUANTUM_ATTACHMENT_ONTOLOGY.md) | Quantum attachment ontology |
+
+### Exhibits — Web 1.02 / HighWire Catacombs
+
+| Path | Accession | Title |
+|------|-----------|--------|
+| [exhibits/HIGHWIRE_MEDRXIV_WEB102_FAQ_FOSSILS.md](exhibits/HIGHWIRE_MEDRXIV_WEB102_FAQ_FOSSILS.md) | MUSEUM-2026-08-11-B-001 | Cookie Cutter, LaserWriter 8.4, CorelDRAW, Normal Windows, IE Custom Level |
+
+**Curator note:** HighWire FAQ fossils are *sister specimens* — institutional recursive administration frozen in HTML. Do not confuse comedy plaques with live medRxiv policy (`www.medrxiv.org/about/FAQ`).
+
+**Repo:** https://github.com/DrSRasin/MISTRAL-MUSEUM
+
+
 Gift Shop
 
 Best-selling items:

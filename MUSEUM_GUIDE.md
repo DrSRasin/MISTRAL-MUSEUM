@@ -335,3 +335,14 @@ may somebody eventually stop recommending Python.
 Amen.
 
 END OF DOCUMENT
+
+
+---
+
+## Wing B — Web 1.02 / HighWire Catacombs (2026-08-11)
+
+Accession **MUSEUM-2026-08-11-B-001**: [exhibits/HIGHWIRE_MEDRXIV_WEB102_FAQ_FOSSILS.md](exhibits/HIGHWIRE_MEDRXIV_WEB102_FAQ_FOSSILS.md)
+
+Pearls: Cookie Cutter, WebFree, LaserWriter 8.4, IE Custom Level, Mac→Windows Word, CorelDRAW `.cdr`, login-wall FAQ.
+
+Taxonomy: FOS · HLP · NOR · TLS. Comedy exhibit only — not submission policy.

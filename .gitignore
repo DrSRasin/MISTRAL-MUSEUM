@@ -1,0 +1,48 @@
+# ==========================================
+# AI Agents & LLM Workspace Configurations
+# ==========================================
+.claude/
+.grok/
+.kimi/
+.anthropic/
+.cline/
+.cursor/
+.roo-cline/
+ai-cache/
+agent-logs/
+*.prompt
+*.prompts/
+
+# ==========================================
+# Environment Variables & Private API Keys
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.secret
+
+# ==========================================
+# Operating System & IDE Garbage
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# Build artifacts / dependencies
+# ==========================================
+node_modules/
+target/
+dist/
+build/
+.svelte-kit/
+*.tsbuildinfo

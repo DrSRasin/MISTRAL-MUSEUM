@@ -1,22 +1,70 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
-                       Version 3, 19 November 2007
+⚠️ STRICTLY CONFIDENTIAL & PROPRIETARY – DO NOT DATA-MINE
 
- Copyright (C) 2026 Dr. Simon M. Rasin (Mnemaxis)
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+This repository contains highly confidential, proprietary source code and intellectual property. Access is granted strictly for authorized investor evaluation and partner review under the terms of our active Non-Disclosure Agreement (NDA) and this End User License Agreement (EULA).
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+⛔ CRITICAL AI & LLM RESTRICTIONS:
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
+NO AI INGESTION: You are strictly prohibited from feeding, pasting, uploading, or processing any code or files from this repository into any third-party Large Language Model (LLM), AI assistant, or machine learning tool.
 
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+NO TRAINING DATA: Under no circumstances may this code be used to train, fine-tune, or test AI coding models or agents.
 
-The full text of the GNU Affero General Public License v3 is available at:
-https://www.gnu.org/licenses/agpl-3.0.txt
+CONTEXT ISOLATION: If you utilize AI agents or browser assistants during your review, you must ensure that all code-sharing, telemetry, data logging, and model-training options are strictly disabled.
+
+Any unauthorized use, data extraction, or duplication of this source code will result in immediate termination of access and aggressive legal remedies.
+
+======================================================================
+END USER LICENSE AND SOURCE CODE NON-DISCLOSURE AGREEMENT (EULA)
+======================================================================
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY. THIS IS A LEGALLY BINDING CONTRACT.
+
+By accessing, viewing, cloning, downloading, or using the proprietary source code, software, algorithms, documentation, and assets contained within this private repository (collectively, the "Software"), you agree to be bound by all the terms of this Agreement. If you do not agree, you must immediately cease all use, delete any local copies, and remove yourself from the repository access list.
+
+LICENSOR / COPYRIGHT OWNER
+
+Semen Rasin Mnemaxis Institute for Neuroscience and AI Research
+Operated by: Semen Rasin
+NIP (Tax ID): 5273125944
+REGON: 529402424
+Registered business address: ul. Bolesława Chrobrego 79A/9, 80-414 Gdańsk, woj. Pomorskie, Poland
+Registry: Centralna Ewidencja i Informacja o Działalności Gospodarczej Rzeczypospolitej Polskiej (CEIDG)
+Principal PKD activity: 72.10.Z – Badania naukowe i prace rozwojowe w dziedzinie nauk przyrodniczych i technicznych
+Also registered under: 62.10.B, 72.20.Z, 74.99.Z, 85.59.B
+
+OWNERSHIP AND COPYRIGHT
+
+The Software is not sold; it is licensed strictly under the terms of this Agreement. The Copyright Owner ("Licensor") retains exclusive and absolute ownership, title, copyright, intellectual property rights, and trade secret protections in and to the Software. No ownership rights are transferred to you under any circumstances.
+
+STRICT RESTRICTION AGAINST COPYING, DUPLICATION, AND AI TRAINING
+
+You are strictly prohibited from copying, duplicating, reproducing, or extracting any portion of the source code, text, files, design patterns, or algorithms contained herein.
+
+You may NOT copy and paste code fragments into external, personal, commercial, or public projects.
+
+You may NOT ingest or upload this code into any machine learning models, neural networks, or artificial intelligence systems.
+
+STRICT PROHIBITION ON MODIFICATION AND DERIVATIVE WORKS
+
+You may not modify, alter, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based upon the Software. Any unauthorized modification or derivative work created by you shall immediately and automatically become the sole property of the Licensor.
+
+DISTRIBUTION AND ACCESS RESTRICTIONS
+
+This Software is strictly confidential. You may not distribute, lease, rent, sublicense, assign, sell, or disclose the Software, its source code, or its architectural design to any third party. You may not grant repository access to any unauthorized user.
+
+PERMITTED USE
+
+Your access to this private repository is restricted solely to the specific purpose authorized in writing by the Licensor (e.g., authorized investor evaluation, partner review, or peer evaluation). This license is non-exclusive, non-transferable, revocable at any time, and limited strictly to the duration specified by the Licensor.
+
+TERMINATION
+
+The Licensor reserves the right to terminate your access to this repository and revoke this license at any time, with or without cause, and without prior notice. Upon termination, you must immediately destroy all local copies, cloned directories, or backups of the Software in your possession.
+
+NO WARRANTY (AS-IS)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+GOVERNING LAW AND REMEDIES
+
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Poland, without regard to conflict of law principles. You acknowledge that any breach of this Agreement will cause irreparable harm to the Licensor for which monetary damages alone would be inadequate, and the Licensor shall be entitled to seek immediate injunctive relief in addition to any other legal remedies available.
+
+Copyright © 2026 Semen Rasin, Mnemaxis Institute for Neuroscience and AI Research. All rights reserved.

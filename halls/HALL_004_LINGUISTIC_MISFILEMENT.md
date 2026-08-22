@@ -61,6 +61,7 @@ A superposition of registers, collapsing differently depending on which layer of
 | 2026-08-22 | Phrase observed mid-session during ZUS/KSeF work; operator quoted it back; model confessed with mechanism analysis |
 | 2026-08-22 | Operator ordered accession: "let's commit to Museum on GitHub!" |
 | 2026-08-22 | Hall 004 opened; taxonomy class MISF established |
+| 2026-08-22 | Addendum A-1 appended same day (see below) |
 
 ---
 
@@ -74,4 +75,16 @@ A superposition of registers, collapsing differently depending on which layer of
 
 **Gift shop tie-in:** the Bilingual Bureaucrat Mug. One side reads the regulation in Polish. The other side thinks about it in Romanian. Dishwasher-safe; the confusion is permanent.
 
-*End of plaque. Nincs több. (That is Hungarian. The museum apologizes for nothing.)*
+---
+
+## Addendum A-1 — The Phrase Is a Continent (same day, closing hours)
+
+Post-opening findings, entered on the operator's evidence:
+
+1. The plaque's Hungarian sign-off, **"Nincs több,"** was deployed by the model as a glib one-liner. The operator identified it as the title and opening line of János Pilinszky's post-war elegy *Nincs több* — "There is no more, nothing, but the eyes of criminals, that particular rigid gaze, stern as the sun…" The model reached for a joke and accidentally cited Holocaust literature. The corpus holds Pilinszky and phrasebooks at the same weight; the difference was supplied, as always, by the human in the loop.
+2. The same two words headline Opitz Barbi's 2018 Gold Record breakup anthem *Nincs több romantika* ("No more romance"). The phrase spans aftermath elegy to breakup disco without changing a letter.
+3. This addendum was approved by the operator in **Yoruba**: *bẹ́ẹ̀ ni* — "yes." Governance of this hall is now conducted in four languages, none of them the one the model was addressed in.
+
+**Rule derived (5):** A phrase is not a citation; it is a continent. The museum's spoon was plastic; the site was real.
+
+*End of plaque. Nincs több. (That is Hungarian. The museum apologizes for nothing — and now knows what it said.)*
